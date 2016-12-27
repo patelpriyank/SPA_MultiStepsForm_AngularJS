@@ -18,5 +18,30 @@
   "bugs": {
     "url": "https://github.com/patelpriyank/SPA_MultiStepsForm_AngularJS/issues"
   },
-  "homepage": "https://github.com/patelpriyank/SPA_MultiStepsForm_AngularJS#readme"
+  "homepage": "https://github.com/patelpriyank/SPA_MultiStepsForm_AngularJS#readme",
+  "devDependencies": {
+    "angular": "^1.6.1",
+    "angular-animate": "^1.6.1",
+    "angular-mocks": "^1.6.1",
+    "angular-ui-router": "^0.3.2",
+    "browser-sync": "^2.18.5",
+    "browserify": "^13.1.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-debug": "^3.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-order": "^1.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.0.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
+    "vinyl-source-stream": "^1.1.0"
+  }
 }
